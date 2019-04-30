@@ -11,5 +11,7 @@ end
 
 add_two(5)
 
+puts "HELP ME!"
+
 
 
