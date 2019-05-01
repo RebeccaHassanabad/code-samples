@@ -11,7 +11,13 @@ end
 
 add_two(5)
 
-puts "HELP ME!"
+def print_two_again(first, last)
+  puts "first: #{first}, last: #{last}"
+end
+
+print_two_again("Rebecca","Hassanabad")
+
+
 
 
 
