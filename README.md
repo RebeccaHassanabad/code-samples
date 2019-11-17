@@ -8,3 +8,5 @@ Contains code samples from my personal tutorials
 
 # New Title here
 
+##Adding a new section to talk about Python 3
+
