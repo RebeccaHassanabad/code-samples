@@ -10,3 +10,5 @@ Contains code samples from my personal tutorials
 
 ##Adding a new section to talk about Python 3
 
+How to create a python virtual environment:
+
